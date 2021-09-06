@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "doomssyro:pebble_block"
+    },
+    "result": "doomssyro:pebble_bricks_block",
+    "count": 1
+}

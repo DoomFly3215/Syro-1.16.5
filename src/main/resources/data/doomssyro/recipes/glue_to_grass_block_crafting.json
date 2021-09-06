@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:grass"
+        },
+        {
+            "item": "doomssyro:glue_item"
+        }
+    ],
+    "result": {
+        "item": "minecraft:grass_block",
+        "count": 1
+    }
+}

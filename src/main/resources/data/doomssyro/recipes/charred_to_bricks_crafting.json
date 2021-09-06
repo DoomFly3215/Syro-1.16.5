@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "doomssyro:charred_pebble_block"
+        }
+    },
+    "result": {
+        "item": "doomssyro:charred_pebble_bricks_block",
+        "count": 4
+    }
+}

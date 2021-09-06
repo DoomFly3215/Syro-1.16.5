@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "doomssyro:glue_item"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "item": "minecraft:egg"
+        }
+    ],
+    "result": {
+        "item": "minecraft:emerald",
+        "count": 1
+    }
+}

@@ -1,0 +1,26 @@
+modLoader="javafml" #mandatory
+loaderVersion="[36,)"
+license="All rights reserved"
+
+[[mods]] #mandatory
+modId="doomssyro" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Syro" #mandatory
+credits="Thanks to Redhood731 for supplying most of the textures." #optional
+authors="DoomFly3215" #optional
+description='''
+Dooms Syro is a mod that adds random things to minecraft.
+'''
+
+[[dependencies.doomssyro]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[36,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.doomssyro]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

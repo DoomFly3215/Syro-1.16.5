@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "doomssyro:pebble_block"
+    },
+    "result": "doomssyro:charred_pebble_block",
+    "experience": 0.1,
+    "cookingtime": 200
+}

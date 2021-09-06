@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "doomssyro:blocks/scales_block"
+  }
+}

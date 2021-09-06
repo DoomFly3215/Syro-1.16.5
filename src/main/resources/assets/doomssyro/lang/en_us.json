@@ -1,0 +1,14 @@
+{
+  "item.doomssyro.glue_item": "Glue",
+  "item.doomssyro.argather_dust": "Argather Dust",
+  "item.doomssyro.argather_ingot": "Argather Ingot",
+  "item.doomssyro.orange_crystal": "Orange Crystal",
+  "block.doomssyro.metal_wood_planks": "Metal Wood Planks",
+  "block.doomssyro.argather_ore": "Argather Ore",
+  "block.doomssyro.charred_pebble_block": "Charred Pebble Block",
+  "block.doomssyro.charred_pebble_bricks_block": "Charred Pebble Bricks",
+  "block.doomssyro.pebble_block": "Pebble Block",
+  "block.doomssyro.pebble_bricks_block": "Pebble Bricks",
+  "block.doomssyro.scales_block": "Scales Block",
+  "itemGroup.syro": "Syro"
+}
